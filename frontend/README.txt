@@ -1,0 +1,1 @@
+Frontend minimal skeleton. Run `npm install` and `npm start` after creating a CRA app or adjusting scripts.

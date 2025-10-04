@@ -1,0 +1,1 @@
+Backend created with separate Student, Clerk, Warden models. Configure .env with Mongo and Cloudinary credentials.
